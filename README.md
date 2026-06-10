@@ -6,7 +6,7 @@
 
 ## Projects
 
-### 🔒 [vpnai](https://github.com/al4nbr3/vpnai) — Rust · Systems · Networking
+### 🔒 [vpnai](https://github.com/JBaezDev25/vpnai) — Rust · Systems · Networking
 **Custom UDP VPN Connection Manager**
 
 Built a full VPN stack from scratch in Rust with no third-party VPN framework.
@@ -23,7 +23,7 @@ Built a full VPN stack from scratch in Rust with no third-party VPN framework.
 
 ---
 
-### 🛡️ [WG_UFW-Server](https://github.com/al4nbr3/WG_UFW-Server) — Python · Automation · AI
+### 🛡️ [WG_UFW-Server](https://github.com/JBaezDev25/WG-home-VPN) — Python · Automation · AI
 **WireGuard VPN + UFW Firewall Manager with Claude AI Assistant**
 
 Automated management platform for WireGuard VPN deployments on Ubuntu 24.04.
@@ -38,7 +38,7 @@ Automated management platform for WireGuard VPN deployments on Ubuntu 24.04.
 
 ---
 
-### 📡 [netwatchm](https://github.com/al4nbr3/netwatchm) — Python · Security · Monitoring
+### 📡 [netwatchm](https://github.com/JBaezDev25/netwatchm) — Python · Security · Monitoring
 **Real-Time Network Threat Monitor**
 
 Production-grade network monitoring tool with threat detection, dashboards, and alerting.
@@ -55,7 +55,7 @@ Production-grade network monitoring tool with threat detection, dashboards, and 
 
 ---
 
-### 🔍 [pk_sniffer](https://github.com/al4nbr3/pk_sniffer) — C · Low-Level · Security
+### 🔍 [pk_sniffer](https://github.com/JBaezDev25/pk_sniffer) — C · Low-Level · Security
 **Packet Sniffer & Threat Detection Tool**
 
 Low-level network sniffer written in C for Linux environments.
@@ -70,7 +70,7 @@ Low-level network sniffer written in C for Linux environments.
 
 ---
 
-### 🎨 [uigen](https://github.com/al4nbr3/uigen) — TypeScript · React · AI
+### 🎨 [uigen](https://github.com/JBaezDev25/uigen) — TypeScript · React · AI
 **AI-Powered React Component Generator**
 
 Conversational UI where users describe a component in chat and see it rendered live.
@@ -85,7 +85,7 @@ Conversational UI where users describe a component in chat and see it rendered l
 
 ---
 
-### 📁 [files_manager](https://github.com/al4nbr3/files_manager) — Python · Automation
+### 📁 [files_manager](https://github.com/JBaezDev25/files_manager) — Python · Automation
 **File Transfer & Management Utility**
 
 GUI and CLI tools for automated file transfer and management operations.
@@ -112,4 +112,4 @@ GUI and CLI tools for automated file transfer and management operations.
 ---
 
 ## GitHub
-[github.com/al4nbr3](https://github.com/al4nbr3)
+[github.com/JBaezDev25](https://github.com/JBaezDev25)
