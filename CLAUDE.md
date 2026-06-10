@@ -1,12 +1,12 @@
 # portfolio — Project Policy (CLAUDE.md)
 
 ## Project Overview
-Developer portfolio document for jbaez120 / al4nbr3. A single README.md that
+Developer portfolio document for jbaez120. A single README.md that
 lists all automation, security, and systems projects for resume use.
 
 ## GitHub
-- Repo: https://github.com/al4nbr3/portfolio
-- Account: al4nbr3
+- Repo: https://github.com/JBaezDev25/portfolio
+- Account: JBaezDev25
 
 ## How to Update
 1. Add or update a project entry in README.md
